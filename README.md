@@ -1,8 +1,9 @@
  INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
-**NAME: HARIHARAN S
-REG NO: 212221220016
-DEPT: IT
-DATE:23/02/2024**
+
+## NAME: HARIHARAN S
+## REG NO: 212221220016
+## DEPT: IT
+## DATE:23/02/2024
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
@@ -39,10 +40,10 @@ General specifications of analog sensor
 A potentiometer, informally a pot, is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
 
-CIRCUIT DIAGRAM
+## CIRCUIT DIAGRAM
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-SCHEMATIC DIAGRAM
+## SCHEMATIC DIAGRAM
 ![Screenshot 2024-02-23 154904](https://github.com/HS1707/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/117717427/3f78d4df-1f06-402d-8502-f694509dd914)
 
 **PROCEDURE:**
